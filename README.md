@@ -15,7 +15,9 @@ https://www.scribd.com/embeds/xxxxxxxxx/content?start_page=1&view_mode=scroll&ac
 ```
 
 bisa coba gunakan ini, tinggal ganti xxxxx dengan format ID pada dokumen yang sedang anda kunjungi dan terkunci aksesnya
+```text
 https://www.scribd.com/embeds/xxxxxxxxx/content?start_page=1&view_mode=scroll&access_key=key-fFexxf7r1bzEfWu3HKwfI
+```
 
 ## Cara penggunaan
 
