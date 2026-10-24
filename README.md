@@ -14,7 +14,7 @@ Panduan sederhana untuk menyusun URL *embed* dokumen Scribd menggunakan ID dokum
 https://www.scribd.com/embeds/xxxxxxxxx/content?start_page=1&view_mode=scroll&access_key=ACCESS_KEY
 ```
 
-bisa coba gunakan link di bawah ini, tinggal ganti xxxxx dengan format ID pada dokumen yang sedang anda kunjungi dan terkunci aksesnya
+bisa coba gunakan link di bawah ini, tinggal ganti `xxxxxxxxx` dengan format ID pada dokumen yang sedang anda kunjungi dan terkunci aksesnya
 ```text
 https://www.scribd.com/embeds/xxxxxxxxx/content?start_page=1&view_mode=scroll&access_key=key-fFexxf7r1bzEfWu3HKwfI
 ```
